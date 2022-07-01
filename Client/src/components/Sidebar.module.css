@@ -1,0 +1,186 @@
+.background{
+    background-color: rgb(19, 17, 17);
+    background-image: url('https://i.pinimg.com/474x/cc/44/b9/cc44b93bf283da379d018195aeb9febc.jpg');
+    /* display: inline-block;
+    position: fixed; */
+    /* z-index: 1; */
+    filter: drop-shadow(8px 8px 10px gray);
+    bottom: 0;
+    margin-top: 60px;
+    left: 0;
+    float: left;
+    width: 20%;
+    height: 670px;
+    /* height: 100%; */
+}
+
+.back{
+    /* background-color: aquamarine; */
+    width: auto;
+    height: 350px;
+}
+
+.addButtonBox {
+    /* background-color: pink; */
+    margin-top: 30px;
+    height: 30px;
+    width: 100%;
+}
+
+.buttonBox {
+    /* background-color: red; */
+    margin-top: 20px;
+    height: 30px;
+    width: 100%;
+}
+
+.buttonBox2 {
+    /* background-color: rgb(47, 224, 255); */
+    margin-top: 20px;
+    height: 30px;
+    width: 100%;
+}
+
+.text {
+    text-decoration: none;
+    color: inherit;
+    font-size: 18px;
+}
+
+.newHalf {
+    margin-top: 10px;
+}
+
+.topHalf {
+    margin-top: 40px;
+}
+
+.bottomHalf {
+    margin-top: 40px;
+}
+
+/*styling for the buttons */
+
+.NewTask {
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(239, 241, 239);
+    color: white;
+    padding-top: 6px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.NewTask:hover {
+    background-color: rgb(40, 156, 40);
+    color: white;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    padding-top: 4px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+}
+
+.AllTasks {
+    /* background-color: rgb(40, 156, 40); */
+    border-radius: 10px;
+    color: white;
+    border: solid;
+    border-color: rgb(240, 240, 245);
+    padding-top: 6px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.AllTasks:hover {
+    background-color:rgb(37, 172, 66);
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    padding-top: 2px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+}
+
+.HighP {
+    /* background-color: rgb(40, 156, 40); */
+    color: white;
+    border-radius: 10px;
+    border: solid;
+    border-color:red;
+    padding-top: 4px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.HighP:hover {
+    background-color: red;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    padding-top: 2px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+}
+
+
+.MedP {
+    /* background-color: rgb(40, 156, 40); */
+    color: white;
+    border-radius: 10px;
+    border: solid;
+    border-color: yellow;
+    padding-top: 4px;
+    margin: auto;
+    height: 30px;
+    width: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.MedP:hover {
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    padding-top: 2px;
+    margin: auto;
+    height: 30px;
+    width: 150px;
+}
+
+
+.LowP {
+    /* background-color: rgb(40, 156, 40); */
+    border-radius: 10px;
+    color: white;
+    border: solid;
+    border-color: rgb(40, 156, 40);
+    padding-top: 4px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.LowP:hover {
+    background-color: rgb(40, 156, 40);
+    border-radius: 10px;
+    border: solid;
+    border-color: black;
+    padding-top: 2px;
+    margin: auto;
+    height: 30px;
+    width: 120px;
+}
+
